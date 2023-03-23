@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "fmerPack"]
+	path = fmerPack
+	url = https://github.com/cran/fmerPack
+	shallow = true
+	registered = true
 [submodule "tls"]
 	path = tls
 	url = https://github.com/liyanstat/tls
