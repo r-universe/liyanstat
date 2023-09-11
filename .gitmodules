@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "dacc"]
+	path = dacc
+	url = https://github.com/liyanstat/dacc
 [submodule "fmerPack"]
 	path = fmerPack
 	url = https://github.com/cran/fmerPack
